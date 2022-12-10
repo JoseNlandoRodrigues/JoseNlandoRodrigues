@@ -1,7 +1,7 @@
 ## Hello! I´m Jose Nlando Rodrigues 🖐️
 [![Blog](https://img.shields.io/website?label=JoseNlandoRodrigues.com&style=for-the-badge&url=https://sujeitoprogramador.com/)]()
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@JoseNlandoRodrigues496)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/sujeitoprogramador)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/josenlandorodrigues/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jos%C3%A9-nlando-rodrigues-21307820a/)
 ![Fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=JoseNlandoRodrigues&show_icons=true&theme=dracula&count_private=true)
 ## Tecnologias que eu uso no meu dia
